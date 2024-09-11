@@ -1,4 +1,4 @@
-# [link](bhttps://blog-fsd.vercel.app/)
+# [link](https://blog-fsd.vercel.app/)
 
 # Blog Feature-Sliced Design
 
