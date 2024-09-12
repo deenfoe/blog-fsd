@@ -1,6 +1,6 @@
 module.exports = {
   root: true,
-  env: { browser: true, es2020: true },
+  env: { browser: true, es2020: true, jest: true },
   extends: [
     'airbnb',
     // 'eslint:recommended',
@@ -10,6 +10,7 @@ module.exports = {
     'plugin:import/errors',
     'plugin:import/warnings',
     'plugin:prettier/recommended',
+    'plugin:jest/recommended',
   ],
   ignorePatterns: ['dist', '.eslintrc.cjs', './index.js'],
   parserOptions: {

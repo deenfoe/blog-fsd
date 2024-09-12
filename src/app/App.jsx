@@ -1,3 +1,5 @@
+import React from 'react'
+
 import AppRoutes from './AppRoutes'
 import styles from './App.module.scss'
 
