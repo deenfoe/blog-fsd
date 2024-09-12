@@ -19,28 +19,28 @@ src/
 │
 ├── pages/                              // Страницы приложения
 │   ├── ArticlePage/                    // Страница отдельной статьи
-│   │   ├── index.jsx                   // Страница статьи
+│   │   ├── ArticlePage.jsx                   // Страница статьи
 │   │   └── ArticlePage.module.scss     // Стили страницы статьи
 │   ├── ArticlesPage/                   // Страница со списком статей
-│   │   ├── index.jsx                   // Список статей
+│   │   ├── ArticlesPage.jsx                   // Список статей
 │   │   └── ArticlesPage.module.scss    // Стили списка статей
 │   ├── EditArticlePage/                // Страница редактирования статьи
-│   │   ├── index.jsx
+│   │   ├── EditArticlePage.jsx
 │   │   └── EditArticlePage.module.scss
 │   ├── NewArticlePage/                 // Страница создания новой статьи
-│   │   ├── index.jsx
+│   │   ├── NewArticlePage.jsx
 │   │   └── NewArticlePage.module.scss
 │   ├── ProfilePage/                    // Страница профиля пользователя
-│   │   ├── index.jsx
+│   │   ├── ProfilePage.jsx
 │   │   └── ProfilePage.module.scss
 │   ├── SignInPage/                     // Страница входа
-│   │   ├── index.jsx
+│   │   ├── SignInPage.jsx
 │   │   └── SignInPage.module.scss
 │   ├── SignUpPage/                     // Страница регистрации
-│   │   ├── index.jsx
+│   │   ├── SignUpPagejsx
 │   │   └── SignUpPage.module.scss
 │   ├── NotFoundPage/                   // Страница 404
-│   │   ├── index.jsx                   // Страница 404 с компонентом NotFound
+│   │   ├── NotFoundPage.jsx                   // Страница 404 с компонентом NotFound
 │   │   └── NotFoundPage.module.scss    // Стили страницы 404
 │
 ├── features/                           // Бизнес-функционал
